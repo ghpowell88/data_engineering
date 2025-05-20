@@ -1,0 +1,15 @@
+snowflake:
+  account: <account>
+  user: <user>
+  password: <password>
+  warehouse: <wh>
+  database: <db>
+#  schema: 
+  table_prefix: ""
+
+mssql:
+  server: "<db_url>,<port>"  # Can be 'server\instance' format if needed
+  database: <db>
+  schema: <schema>
+  user: <user>
+  password: <pw>
